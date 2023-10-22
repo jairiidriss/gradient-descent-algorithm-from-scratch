@@ -1,2 +1,3 @@
 <h1>Gradient Descent Algorithm From Scratch</h1>
-<p>A Simple Implementation for Gradient Descent Algorithm From Scratch</p>
+<h3>A simple implementation of Gradient Descent Algorithm from scratch</h3>
+<img src = "gradient_descent_line_graph.gif">
